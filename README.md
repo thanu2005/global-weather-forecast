@@ -6,7 +6,7 @@ A weather forecasting web app built with **React.js** and **OpenWeather API**, d
 
 ## Features
 - Search real-time weather data for any city.
-- Displays temperature, humidity, wind speed, and weather conditions.
+- Displays temperature, humidity, wind speed, and other weather conditions.
 - Responsive design for both mobile and desktop.
 - Fetches data from OpenWeather API.
 
